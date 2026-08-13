@@ -25,22 +25,14 @@ Az adatbázis közel 2000 mondatot tartalmaz. Minden mondat hangzó formában (a
 [Az adatbázis szerkezeti leírása.](../../download/hangsulyadatbazis_szerkezete_hu.pdf) 
 
 
-További részletek a [szakcikkben](../../download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf) olvashatók. 
-  "
-  button:
-    enable : true
-    label : "Az adatbázis letöltése (1. rész)"
-    link : "download/hangsuly_adatbazis_2022.zip"
+Az adatbázis letöltése: [1. rész](../../download/hangsuly_adatbazis_2022.zip), [2. rész](../../download/hangsuly_adatbazis_2022.z01), [3. rész](../../download/hangsuly_adatbazis_2022.z02)
+
+"
 
   button:
     enable : true
-    label : "Az adatbázis letöltése (2. rész)"
-    link : "download/hangsuly_adatbazis_2022.z01"
-
-  button:
-    enable : true
-    label : "Az adatbázis letöltése (3. rész)"
-    link : "download/hangsuly_adatbazis_2022.z02"
+    label : "További részletek a szakcikkben olvashatók"
+    link : "../../download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf"
 
 
 

@@ -47,7 +47,7 @@ intro_video:
   enable: true
   title: "Jó napot kívánok!"
   content: ""
-  video_url: "videos/alk/jonap.mp4"
+  video_url: "../../videos/alk/jonap.mp4"
   video_thumbnail: "images/alk/jonap.jpg"
   background_class : "bg-light"
 
@@ -60,7 +60,7 @@ intro_video_2:
   enable: true
   title: "Búvárszemüveg"
   content: "Az artikulációs szervek mozgását a mellékelt videóban követhetjük,  a *búvárszemüveg* szó kiejtésekor"
-  video_url: "videos/alk/buvarszemuveg.mp4"
+  video_url: "../../videos/alk/buvarszemuveg.mp4"
   video_thumbnail: "images/alk/buvarszemuveg.jpg"
   background_class : ""
 

@@ -51,10 +51,15 @@
           <h2 class="section-title h3">{{ .title | markdownify }}</h2>
           <p class="mb-4">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
-          {{ with .button }}
-          <a href="{{ .link | relLangURL }}" title="{{ .label }}" class="btn-link">{{ .label }} <i class="fas fa-arrow-right"></i></a>
-          {{ end }}
-          {{ end }}
+        {{ with .button }}
+          <a href="{{ .link | relLangURL }}"
+            title="{{ .label }}"
+            class="btn btn-outline-primary">
+            {{ .label }}
+          </a>
+        {{ end }}
+      {{ end }}}
+
         </div>
       </div>
       <div class="col-lg-6 {{if modBool $i 2}}order-lg-1{{end}} order-0">
