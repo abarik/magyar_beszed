@@ -12,7 +12,7 @@ intro_video:
   enable: true
   title: "Welcome to *THE MUSEUM OF HUNGARIAN SPEECH TECHNOLOGY*"
   content: ""
-  video_url: "videos/udvozlo.mp4"
+  video_url: "../videos/udvozlo.mp4"
   video_thumbnail: "images/udvozlo.jpg"
   background_class: "bg-light"
 
@@ -23,7 +23,7 @@ about:
   Speech is one of the most complex acoustic products of human beings. This website will help you gain insight into the secrets of speech waveforms. Until the 20th century, it was only a dream of mankind to know the detailed structure, the operation, perception and comprehension mechanisms of speech. 
   
   
-   The book [HUNGARIAN SPEECH](download/A-magyar-beszed.pdf) is also linked to the website, It was published by Akadémia Kiadó in 2010. It contains 700 pages of detailed information about hungarian speech research and speech technology applications. We wish you good browsing on the website and in the book.
+   The book [HUNGARIAN SPEECH](../download/A-magyar-beszed.pdf) is also linked to the website, It was published by Akadémia Kiadó in 2010. It contains 700 pages of detailed information about hungarian speech research and speech technology applications. We wish you good browsing on the website and in the book.
     
   
   Az oldal magyar nyelven is elérhető: [Magyar beszéd](../)
