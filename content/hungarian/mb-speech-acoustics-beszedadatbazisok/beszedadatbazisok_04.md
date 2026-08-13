@@ -19,7 +19,7 @@ Az első valódi beszédadatbázist többek között a gépi beszédfelismerési
 A jó minőségű, emberi hangú beszédszintézishez készült a BME TMIT beszédtechnológiai laboratóriumában a PPBA Párhuzamos Precíziós Beszédadatbázis (2010), amelyben 12 beszélő olvasta fel ugyanazt a 2000 mondatból álló szöveget. Ezt a Profivox-HMM beszédszintetizátor tanításánál használták. Az IDŐJÁRÁS egy személyes beszédadatbázis (2013) 5000 mondatból állt és a ProfiVox-korpusz beszédszintetizátort szolgálta ki internetes szolgáltatásban. A VONAT egyszemélyes beszédadatbázis (2014-től) 12000 mondatot tartalmazott és a MÁV automatikus, hangos utastájékoztatójában működik. Ezeket a beszédszintézishez kialakított beszédadatbázisokat a későbbiekben a BME TMIT Neural ProfiVox beszédszintetizátorok tanításához is felhasználták. Ezekben már mély neurális hálózatok (DNN) működnek.
 Ma, a 21. század harmadik évtizedében a beszédadatbázisoknak se szeri, se száma. Ez a memóriák ugrásszerű megnövekedése miatt van így, másrészről a gépi mélytanulás támogatja a kézi munka nélküli beszédadatbázis készítést.
 
-További részletek: [A MAGYAR BESZÉD](/download/A-magyar-beszed.pdf) c. könyv 8. fejezetében (261. oldalt) olvashatók
+További részletek: [A MAGYAR BESZÉD](download/A-magyar-beszed.pdf) c. könyv 8. fejezetében (261. oldalt) olvashatók
 
 
 

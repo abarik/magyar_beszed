@@ -32,7 +32,7 @@ intro_video:
   enable: true
   title: "József Király Király and Flexvoice tells you more about the development"
   content: "The video was made by József Király in 2018."
-  video_url: "/videos/tts/flexvoice_hu.mp4"
+  video_url: "videos/tts/flexvoice_hu.mp4"
   video_thumbnail: "images/tts/flexvoice.jpg"
   background_class : ""
 

@@ -52,7 +52,7 @@ intro_video:
   enable: true
   title: "GOH speech hearing test in kindergarten"
   content: ""
-  video_url: "/videos/alk/GOH_Kindergarten.mp4"
+  video_url: "videos/alk/GOH_Kindergarten.mp4"
   video_thumbnail: "images/alk_tts/goh_vid_1.jpg"
   background_class : "bg-light"
 
@@ -64,7 +64,7 @@ intro_video_2:
   enable: true
   title: "GOH speech hearing test at school"
   content: ""
-  video_url: "/videos/alk/GOH_school.mp4"
+  video_url: "videos/alk/GOH_school.mp4"
   video_thumbnail: "images/alk_tts/goh_vid_2.jpg"
   background_class : ""
 

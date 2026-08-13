@@ -32,7 +32,7 @@ intro_video:
   enable: true
   title: "Király József a Flexvoice-ról"
   content: "A fejlesztésről mondja el Király József és a Flexvoice, amit még tudni kell. A videót Király József készített 2018-ban."
-  video_url: "/videos/tts/flexvoice_hu.mp4"
+  video_url: "videos/tts/flexvoice_hu.mp4"
   video_thumbnail: "images/tts/flexvoice.jpg"
   background_class : ""
 

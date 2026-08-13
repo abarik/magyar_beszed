@@ -32,7 +32,7 @@ intro_video:
   enable: true
   title: "Világhalló in work"
   content: "An introduction to a contemporary screen is shown in the video below"
-  video_url: "/videos/alk/vilaghalo_kepernyo.mp4"
+  video_url: "videos/alk/vilaghalo_kepernyo.mp4"
   video_thumbnail: "images/alk_tts/vid_0.jpg"
   background_class: "bg-light"
 

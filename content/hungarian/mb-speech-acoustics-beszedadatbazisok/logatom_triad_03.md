@@ -30,4 +30,4 @@ A diád-triád adatbázis mérete: 80 Mbyte egy hangra. A ProfiVox-triád rendsz
 {{<audio src="/audio/esni_fog_az_eso.wav" caption="" >}}
 
 
-További részletek: [A MAGYAR BESZÉD](/download/A-magyar-beszed.pdf) c. könyv 8.2.2.2. Triád a hangelembázisban fejezetében
+További részletek: [A MAGYAR BESZÉD](download/A-magyar-beszed.pdf) c. könyv 8.2.2.2. Triád a hangelembázisban fejezetében

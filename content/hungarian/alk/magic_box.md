@@ -33,7 +33,7 @@ A rendszer gépi beszédfelismeréssel működik, a beszédképzéskor keletkez�
     
 A hibás képzéskor megjelenő hangkép erősen eltér a helyes ejtést jellemző hangképtől. A rendszer ily módon lehetővé teszi, hogy a gyermek (vagy rosszul beszélő felnőtt) látva saját rossz hangképét, és annak eltérését a normál ejtés hangmintasorától, hatékonyan rávezethető legyen saját artikulációjának megváltoztatásával a helyes hangsor előállítására. Az eljárással 4-6 éves gyermekek is hatékonyan sajátíthatják el a helyes beszédképzést.
 A képi megjelenítéssel egyidőben a korrekt módon ejtett hangminta: szótag, szó vagy mondat hangszórón keresztül hallható is.
-A VARÁZSDOBOZ a szurdopedagógusok, logopédusok és foniáter orvosok munkáját teszi hatékonyabbá és változatosabbá, valamint a program lehetővé teszi, hogy a gyermekek otthon is önállóan gyakorolhassanak, játékos programokkal kötve le figyelmüket. További részletek Vicsi Klára MTA doktori disszertációjában olvashatók [itt](/download/Vicsi_doktori_2003.pdf).
+A VARÁZSDOBOZ a szurdopedagógusok, logopédusok és foniáter orvosok munkáját teszi hatékonyabbá és változatosabbá, valamint a program lehetővé teszi, hogy a gyermekek otthon is önállóan gyakorolhassanak, játékos programokkal kötve le figyelmüket. További részletek Vicsi Klára MTA doktori disszertációjában olvashatók [itt](download/Vicsi_doktori_2003.pdf).
 
 
 A program ingyenesen elérhető. [További részletek](http://lsa.tmit.bme.hu/products/speco.html)

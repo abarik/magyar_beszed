@@ -56,7 +56,7 @@ intro_video:
   enable: true
   title: "Bemutatók 2001-2022 között"
   content: "Kempelen Farkas rekonstruált beszélőgépének nyilvános bemutatásai 2001-2022 között."
-  video_url: "/videos/ps_kezdetek/hu_kempelen_bemutatok_olaszy_nikleczy_2001_2022.mp4"
+  video_url: "videos/ps_kezdetek/hu_kempelen_bemutatok_olaszy_nikleczy_2001_2022.mp4"
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_2001_2022.jpg"
   background_class: "bg-light"
 
@@ -65,7 +65,7 @@ intro_video_2:
   enable: true
   title: "A beszédkeltő gép hangja"
   content: "Kempelen Farkas beszédkeltő gépének hangja a 2001-ben rekonstruált géppel előállítva"
-  video_url: "/videos/ps_kezdetek/hu_kempelen_hangok_szavak_bme_aula.mp4"
+  video_url: "videos/ps_kezdetek/hu_kempelen_hangok_szavak_bme_aula.mp4"
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_hang.jpg"
   background_class: ""
 
@@ -74,7 +74,7 @@ intro_video_3:
   enable: true
   title: "Rekonstrukció"
   content: "Kempelen Farkas beszédkeltő gépének rekonstrukciója 2001-ben"
-  video_url: "/videos/ps_kezdetek/hu_kempelen_nikleczy_olaszy_bme_magyar.mp4"
+  video_url: "videos/ps_kezdetek/hu_kempelen_nikleczy_olaszy_bme_magyar.mp4"
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_2001.jpg"
   background_class: "bg-light"
 
@@ -83,7 +83,7 @@ intro_video_4:
   enable: true
   title: "Kempelen gépek kórusa"
   content: "Kempelen Farkas 5 egyedileg rekonstruált beszélő gépének kórusa (mama, papa) 2018-ban Bécsben a Kempelen Workshopon."
-  video_url: "/videos/ps_kezdetek/kempelen_gepek_korusa_2019_09_12.mp4"
+  video_url: "videos/ps_kezdetek/kempelen_gepek_korusa_2019_09_12.mp4"
   video_thumbnail: "images/ps_kezdetek/video_korus.jpg"
   background_class: ""
 
@@ -93,7 +93,7 @@ intro_video_5:
   enable: true
   title: "3D animáció"
   content: "Az animáció 2023-ban készült."
-  video_url: "/videos/ps_kezdetek/Kemp_3D_HU.mp4"
+  video_url: "videos/ps_kezdetek/Kemp_3D_HU.mp4"
   video_thumbnail: "images/ps_kezdetek/kempelen_3D.jpg"
   background_class: ""
 

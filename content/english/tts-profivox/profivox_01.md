@@ -12,7 +12,7 @@ intro_video:
   enable: true
   title: ""
   content: "Listen to the video"
-  video_url: "/videos/ps_profivox/profivox_diad_hangdemo_video.mp4"
+  video_url: "videos/ps_profivox/profivox_diad_hangdemo_video.mp4"
   video_thumbnail: "images/ps_profivox/profivox_diad_2021_logo.jpg"
   background_class: ""
 
@@ -47,7 +47,7 @@ intro_video_2:
   enable: true
   title: ""
   content: "Most blind people use Profivox in Hungary as a screen reader (Jaws for Windows). Available for purchase in the GooglePlay Store. Different voice samples can be listened to in the 'Applications'."
-  video_url: "/videos/ps_profivox/profivox_20_video.mp4"
+  video_url: "videos/ps_profivox/profivox_20_video.mp4"
   video_thumbnail: "images/ps_profivox/film.jpg"
   background_class: ""
 

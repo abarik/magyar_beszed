@@ -21,16 +21,26 @@ The database was designed by Gábor Olaszy (BME TMIT) and Kálmán Abari (Instit
 This is the first stress database of the Hungarian language. Its purpose: to present the correct word level stress patterns of Hungarian sentences in written and spoken form with scientific precision and testing. The meaning of stress pattern is as follows: a series of stress marks placed before the words of the sentence (F=stressed, N=unstressed). The stress pattern image  contains as many stress marks as many words are in the sentence. The database contains nearly 2,000 Hungarian sentences. All sentences are stored in audio form (wav file produced with the ProfiVox-triad speech synthesizer) and in written form with accent marks before the words (txt file). The database is downloadable. It can be used for targeted statistical tests. for education and research.
 
 
-[Structure of the Hungarian stress database.](/download/hangsulyadatbazis_szerkezete_en.pdf) 
+[Structure of the Hungarian stress database.](download/hangsulyadatbazis_szerkezete_en.pdf) 
 
 
-More details can be found in the [paper](/download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf) (2014) in Hungarian.
+More details can be found in the [paper](download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf) (2014) in Hungarian.
 
   "
   button:
     enable : true
-    label : "Download the database"
-    link : "/download/hangsuly_adatbazis_2022.zip"
+    label : "Download the database (part 1)"
+    link : "download/hangsuly_adatbazis_2022.zip"
+
+  button:
+    enable : true
+    label : "Download the database (part 2)"
+    link : "download/hangsuly_adatbazis_2022.z01"
+
+  button:
+    enable : true
+    label : "Download the database (part 3)"
+    link : "download/hangsuly_adatbazis_2022.z02"
 
 
 ######################### content_and_waves_ordered #####################

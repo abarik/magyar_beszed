@@ -37,7 +37,7 @@ intro_video:
   enable: true
   title: "Világhalló működés közben"
   content: "Egy korabeli képernyős bemutatkozása az alábbi videóban látható"
-  video_url: "/videos/alk/vilaghalo_kepernyo.mp4"
+  video_url: "videos/alk/vilaghalo_kepernyo.mp4"
   video_thumbnail: "images/alk_tts/vid_0.jpg"
   background_class: "bg-light"
 
@@ -91,7 +91,7 @@ intro_video_2:
   enable: true
   title: "Videó az Informatika a Látássérültekért Alapítványtól a Profivox-ról"
   content: ""
-  video_url: "/videos/alk/profivox_20_szuhaj_mihalyi_video.mp4"
+  video_url: "videos/alk/profivox_20_szuhaj_mihalyi_video.mp4"
   video_thumbnail: "images/alk_tts/jaws_02.jpg"
   background_class : "bg-light"
 

@@ -19,7 +19,7 @@ content_and_image_ordered:
     content : '##### 
 
 THE MAGIC BOX is a multisensory speech training system running on an IBM PC-compatible computer that helps the user to develop her/his own speech production. Itis mainly used for children and adults with hearing loss and hard of hearing. During the development of pronunciation, the main emphasis is on the creation of the articulation base of children, the formation and automation of the correct pronunciation of Hungarian speech sounds and fluent speech.
-The system works with automatic speech recognition, the characteristic parameters of the sound generated during speech are displayed on the computer screen in an illustrative form. This image is called a speech sound image. Further details can be read in the DSc [dissertation](/download/Vicsi_doktori_2003.pdf) of Klára Vicsi (in Hungarian).
+The system works with automatic speech recognition, the characteristic parameters of the sound generated during speech are displayed on the computer screen in an illustrative form. This image is called a speech sound image. Further details can be read in the DSc [dissertation](download/Vicsi_doktori_2003.pdf) of Klára Vicsi (in Hungarian).
 
 
 

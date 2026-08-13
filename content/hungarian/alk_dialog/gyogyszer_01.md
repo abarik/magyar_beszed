@@ -23,7 +23,7 @@ A Gyógyszevonal szolgáltatás telefonon hívható automata volt, amely gépi b
 
 További részletek: 
 
-* [Szakcikk](/download/Speech_based_Drug_Information_System.pdf)
+* [Szakcikk](download/Speech_based_Drug_Information_System.pdf)
 
 *  [Gyógyszervonal](http://smartlab.tmit.bme.hu/alkalmazas-gyogyszervonal)
   

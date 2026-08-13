@@ -24,14 +24,14 @@ A példában az "alma" szó előállításakor egymáshoz kapcsolt 5 diádot lá
  
 A diádos adatbázis mérete: 6 Mbyte egy hangra. A ProfiVox-diád férfi és női hangon tud beszélni.
 
-{{<audio src="/audio/alma.wav" caption="" >}}
+{{<audio src="audio/alma.wav" caption="" >}}
 
 
 A diádos adatbázis elkészítéséhez 3 szótagos értelmetlen hangsorokat terveztünk, minden beszédhang kapcsolatra egyet-egyet, azaz 39 féle beszédhangra összesen 1521 féle logatomot . Példaként lássuk a bá, pá, dá, tá, gá, ká, gyá, tyá hangkapcsolatokat hordozó logatomokat szöveges formában: abáka, apáka, adáka, atáka, agáka, akáka, agyáka, atyáka. A felolvasást monoton hangon kellett végezni egyforma hangerővel. Lásd a hangpéldában.
 
 {{<audio src="/audio/abaka_8_logatom.wav" caption="" >}}
 
-További részletek: [A MAGYAR BESZÉD](/download/A-magyar-beszed.pdf) c. könyv 8.2.2.1. Diád hangelembázis fejezetében
+További részletek: [A MAGYAR BESZÉD](download/A-magyar-beszed.pdf) c. könyv 8.2.2.1. Diád hangelembázis fejezetében
 
 
 
