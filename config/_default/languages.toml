@@ -1,0 +1,29 @@
+################################### Hungarian language #####################################
+[hu]
+languageName = "HU"
+languageCode = "hu-HU"
+contentDir = "content/hungarian"
+weight = 1
+########### footer content ##########
+footer_menu_left = "Kiemelt"
+footer_menu_middle = "Letöltések"
+footer_menu_right = "Rólunk"
+footer_content = ""
+
+
+
+
+################################### English language #####################################
+[en]
+languageName = "EN"
+languageCode = "en-US"
+contentDir = "content/english"
+weight = 2
+########### footer content ##########
+footer_menu_left = "Featured"
+footer_menu_middle = "Downloads"
+footer_menu_right = "About"
+footer_content = ""
+
+
+

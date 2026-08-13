@@ -1,0 +1,8 @@
+build-last-errors="[]"
+build-last-errors-base-dir=""
+build-last-outputs="[{\"type\":0,\"output\":\"==> rmarkdown::render_site(encoding = 'UTF-8')\\n\\n\"},{\"type\":1,\"output\":\"Start building sites … \\nhugo v0.89.1-B6A4AE4A+extended windows/amd64 BuildDate=2021-11-05T15:44:32Z VendorInfo=gohugoio\\n\"},{\"type\":1,\"output\":\"\\n                   | HU  | EN   \\n-------------------+-----+------\\n  Pages            | 133 | 124  \\n  Paginator pages  |   0 |   0  \\n  Non-page files   |   5 |   5  \\n  Static files     | 102 | 102  \\n  Processed images | 351 |  64  \\n  Aliases          |   1 |   0  \\n  Sitemaps         |   2 |   1  \\n  Cleaned          |   0 |   0  \\n\\nTotal in 62204 ms\\n\"},{\"type\":2,\"output\":\"\\r\\n==> The site has been generated to the directory 'public'.\\r\\n\\r\\n** Note that normally you cannot just open the .html files in this directory to view them in a browser. This directory need to be served before you can preview web pages correctly (e.g., you may deploy the folder to a web server). Alternatively, blogdown::serve_site() gives you a local preview of the site.\\r\\n\\r\\n\"}]"
+compile_pdf_state="{\"tab_visible\":false,\"running\":false,\"target_file\":\"\",\"output\":\"\",\"errors\":[]}"
+files.monitored-path=""
+find-in-files-state="{\"handle\":\"\",\"input\":\"\",\"path\":\"\",\"regex\":false,\"ignoreCase\":false,\"results\":{\"file\":[],\"line\":[],\"lineValue\":[],\"matchOn\":[],\"matchOff\":[],\"replaceMatchOn\":[],\"replaceMatchOff\":[]},\"running\":false,\"replace\":false,\"preview\":false,\"gitFlag\":false,\"replacePattern\":\"\"}"
+imageDirtyState="1"
+saveActionState="0"

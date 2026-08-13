@@ -1,0 +1,11 @@
+baseURL: https://www.magyarbeszed.hu/
+title: Magyar beszéd
+theme: bigspring
+paginate: '3'
+summaryLength: '15'
+disqusShortname: ''
+googleAnalytics: ''
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes

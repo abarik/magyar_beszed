@@ -1,0 +1,343 @@
+# main menu
+
+[[main]]
+weight = 3
+name = "Language-text-speech"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+  [[main]]
+  parent = "Language-text-speech"
+  name = "Mini dictionary"
+  pre = "<i class='dropdown-icon fas fa-book'></i>"
+  post = "<small class='dropdown-subtitle'>The most important terms in speech technology and phonetics</small>"
+  url = "mb-lws/dictionary/"
+  weight = 1
+
+  [[main]]
+  parent = "Language-text-speech"
+  name = "Pronunciation dictionary"
+  pre = "<i class='dropdown-icon fas fa-window-maximize'></i>"
+  post = "<small class='dropdown-subtitle'>The pronunciation of 1.5 million Hungarian words with sound symbols</small>"
+  url = "mb-lws/pd/"
+  weight = 2
+  
+  
+  [[main]]
+  parent = "Language-text-speech"
+  name = "Writing and speaking"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>The relationship between speech and writing, the phonetic transcript</small>"
+  url = "mb-lws/irasbeszed/"
+  weight = 3
+
+  
+  [[main]]
+  parent = "Language-text-speech"
+  name = "Speech sound symbols"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Tables of IPA, SAMPA, and other sound symbol sets used in speech research</small>"
+  url = "mb-lws/hangszimbolumok/"
+  weight = 10
+  
+  [[main]]
+  parent = "Language-text-speech"
+  name = "Statistics"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Letter-, syllable-, word- and diphone combination statistics</small>"
+  url = "mb-lws/nyelvi_statisztikak/"
+  weight = 15
+  
+[[main]]
+weight = 4
+name = "Speech acoustics"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+  [[main]]
+  parent = "Speech acoustics"
+  name = "Basics"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>A short overview of the basic topics of speech acoustics</small>"
+  url = "mb-speech-acoustics-alapok/"
+  weight = 1
+
+  [[main]]
+  parent = "Speech acoustics"
+  name = "Speech databases"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Databases of various speech representations for developments</small>"
+  url = "mb-speech-acoustics-beszedadatbazisok/"
+  weight = 2
+
+
+  [[main]]
+  parent = "Speech acoustics"
+  name = "Interactive programs"
+  pre = "<i class='dropdown-icon fas fa-window-maximize'></i>"
+  post = "<small class='dropdown-subtitle'>6 interactive programs</small>"
+  url = "mb-speech-acoustics-interaktivprogramok/"
+  weight = 3
+
+
+  [[main]]
+  parent = "Speech acoustics"
+  name = "Sentence melodies"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Hungarian sentence melody forms</small>"
+  url = "mb-speech-acoustics/dallam/"
+  weight = 9
+
+  
+  [[main]]
+  parent = "Speech acoustics"
+  name = "Stress database"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Stress of Hungarian words</small>"
+  url = "tts/hangsuly/"
+  weight = 10
+
+
+[[main]]
+weight = 6
+name = "Speech synthesis"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+  [[main]]
+  parent = "Speech synthesis"
+  name = "1980 - beginnings"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>The beginnings of Hungarian speech synthesis research, 1791-1989</small>"
+  url = "tts-kezdetek/"
+  weight = 1
+
+  [[main]]
+  parent = "Speech synthesis"
+  name = "1988 - BME Multivox"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>BME TMIT Speech Technology Laboratory: Multivox family 1987-2002</small>"
+  url = "tts-multivox/"
+  weight = 2
+
+  [[main]]
+  parent = "Speech synthesis"
+  name = "1996 - ProfiVox family"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>BME TMIT Speech Technology Laboratory: Profivox family 1998-2022</small>"
+  url = "tts-profivox/"
+  weight = 3
+
+  [[main]]
+  parent = "Speech synthesis"
+  name = "2002 - FlexVoice"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Flexible hybrid text to speech synthesiser by Mindmaker</small>"
+  url = "tts/flexvoice/"
+  weight = 4
+  
+  
+  [[main]]
+  parent = "Speech synthesis"
+  name = "2020 - BME Neural ProfiVox"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Technology of the 21st century</small>"
+  url = "tts/neuralvox/"
+  weight = 5
+  
+  
+[[main]]
+weight = 13
+name = "Speech recognition"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+
+  [[main]]
+  parent = "Speech recognition"
+  name = "1971 - the beginnings"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Beginnings in Hungary</small>"  
+  url = "asr_kezdetek/"
+  weight = 3
+
+  [[main]]
+  parent = "Speech recognition"
+  name = "1990 - BME TMIT"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Education, research, developments</small>"  
+  url = "asr/bmetmitasr/"
+  weight = 4
+
+
+  [[main]]
+  parent = "Speech recognition"
+  name = "2013 - Speech Tex"
+  pre = "<i class='dropdown-icon fas fa-book-reader'></i>"
+  post = "<small class='dropdown-subtitle'>Technology of the 21st century</small>"  
+  url = "asr/speechtexasr/"
+  weight = 5
+
+
+
+[[main]]
+weight = 15
+name = "Applications"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+
+
+  [[main]]
+  parent = "Applications"
+  name = "TTS"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Speech synthesis applications</small>"
+  url = "alk_tts/"
+  weight = 1
+
+  [[main]]
+  parent = "Applications"
+  name = "Speech-to-text (SST)"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Machine speech recorder, subtitler</small>"  
+  url = "alk_asr/"
+  weight = 2
+
+  [[main]]
+  parent = "Applications"
+  name = "ASR-TTS"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>ASR and TTS supported dialogue systems</small>"  
+  url = "alk_dialog/"
+  weight = 3
+
+
+  [[main]]
+  parent = "Applications"
+  name = "Talking head"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Virtual announcer and transparent articulation instructor</small>"  
+  url = "alk/talking_head/"
+  weight = 4
+
+  [[main]]
+  parent = "Applications"
+  name = "Magic box with ASR"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Help children with speech and hearing disorder</small>"  
+  url = "alk/magic_box/"
+  weight = 5
+  
+  [[main]]
+  parent = "Applications"
+  name = "Prosodic Trainer"
+  pre = "<i class='dropdown-icon fas fa-dice-d6'></i>"
+  post = "<small class='dropdown-subtitle'>Education of deaf and speech-impaired people</small>"  
+  url = "alk/prosodic/"
+  weight = 6  
+
+
+
+[[main]]
+weight = 30
+name = "Others"
+hasChildren = true
+[main.params]
+isMenuLarge = true
+  
+  [[main]]
+  parent = "Others"
+  name = "The maintainers"
+  pre = "<i class='dropdown-icon fas fa-users-cog'></i>"
+  post = "<small class='dropdown-subtitle'>Website creators and maintainers</small>"  
+  url = "mb-others/maintainers/"
+  weight = 1
+
+  [[main]]
+  parent = "Others"
+  name = "History of the website"
+  pre = "<i class='dropdown-icon fas fa-landmark'></i>"
+  post = "<small class='dropdown-subtitle'>Short history</small>"  
+  url = "mb-others/history/"
+  weight = 2
+  
+  [[main]]
+  parent = "Others"
+  name = "Education"
+  pre = "<i class='dropdown-icon fas fa-landmark'></i>"
+  post = "<small class='dropdown-subtitle'>Education related to speech technology</small>"  
+  url = "mb-others/education/"
+  weight = 3
+  
+  [[main]]
+  parent = "Others"
+  name = "Downloadable literature"
+  pre = "<i class='dropdown-icon fas fa-download'></i>"
+  post = "<small class='dropdown-subtitle'>Public books and articles</small>"  
+  url = "mb-others/literature/"
+  weight = 4
+
+
+  [[main]]
+  parent = "Others"
+  name = "Related links"
+  pre = "<i class='dropdown-icon fas fa-link'></i>"
+  post = "<small class='dropdown-subtitle'>Other related links</small>"  
+  url = "mb-others/other_links/"
+  weight = 5
+
+
+[[main]]
+  parent = "Others"
+  name = "Related software"
+  pre = "<i class='dropdown-icon fas fa-external-link-alt'></i>"
+  post = "<small class='dropdown-subtitle'>Other related software</small>"  
+  url = "mb-others/other_programs/"
+  weight = 6
+
+
+[[main]]
+  parent = "Others"
+  name = "Contact"
+  pre = "<i class='dropdown-icon fas fa-address-book'></i>"
+  post = "<small class='dropdown-subtitle'>Contact information</small>"  
+  url = "mb-others/contacts/"
+  weight = 7
+
+
+
+# footer menu left
+[[footer_left]]
+name = "Pronunciation dictionary"
+url = "mb-lws/pd/"
+weight = 1
+
+[[footer_left]]
+name = "Speech synthesis applications"
+url = "alk_tts/"
+weight = 2
+
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Downloadable literature"
+url = "mb-others/literature/"
+weight = 1
+
+
+# footer menu right
+[[footer_right]]
+name = "Owners"
+url = "mb-others/maintainers/"
+weight = 1
+
+[[footer_right]]
+name = "Contact"
+url = "mb-others/contacts/"
+weight = 2
