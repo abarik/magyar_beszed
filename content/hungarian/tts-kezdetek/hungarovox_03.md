@@ -45,7 +45,7 @@ intro_video:
   enable: true
   title: "VOX-12 hangbemutató"
   content: ""
-  video_url: "videos/ps_kezdetek/hu_hungarovox_12_voice_1982.mp4"
+  video_url: "../../videos/ps_kezdetek/hu_hungarovox_12_voice_1982.mp4"
   video_thumbnail: "images/ps_kezdetek/hu_video_vox.jpg"
   background_class : "bg-light"
 

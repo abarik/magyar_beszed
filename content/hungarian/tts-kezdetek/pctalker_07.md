@@ -48,7 +48,7 @@ intro_video:
   enable: true
   title: "Videó Király József hangjával - 2018"
   content: ""
-  video_url: "videos/ps_kezdetek/pc_talker_kiraly_jozsef.mp4"
+  video_url: "../../videos/ps_kezdetek/pc_talker_kiraly_jozsef.mp4"
   video_thumbnail: "images/ps_kezdetek/kj.jpg"
   background_class: ""
 

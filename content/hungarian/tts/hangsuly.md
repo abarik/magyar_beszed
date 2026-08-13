@@ -29,8 +29,18 @@ További részletek a [szakcikkben](../../download/Olaszy_Abari_Bartalis_Magyar_
   "
   button:
     enable : true
-    label : "Az adatbázis letöltése"
+    label : "Az adatbázis letöltése (1. rész)"
     link : "download/hangsuly_adatbazis_2022.zip"
+
+  button:
+    enable : true
+    label : "Az adatbázis letöltése (2. rész)"
+    link : "download/hangsuly_adatbazis_2022.z01"
+
+  button:
+    enable : true
+    label : "Az adatbázis letöltése (3. rész)"
+    link : "download/hangsuly_adatbazis_2022.z02"
 
 
 

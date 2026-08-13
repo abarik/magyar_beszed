@@ -12,7 +12,7 @@ intro_video:
   enable: true
   title: ""
   content: "Hallgasd meg a videót!"
-  video_url: "videos/ps_profivox/profivox_diad_hangdemo_video.mp4"
+  video_url: "../../videos/ps_profivox/profivox_diad_hangdemo_video.mp4"
   video_thumbnail: "images/ps_profivox/profivox_diad_2021_logo.jpg"
   background_class: ""
 
@@ -46,7 +46,7 @@ intro_video_2:
   title: ""
   content: "A vakok többsége a ProfiVox -ot  használja képernyő olvasóként (Jaws for Windows, Magic, stb.).
 A Profivox 20 éves évfordulójára filmet készített az Informatika a Látássérültekért Alapítvány  (kuratóriumi elnök Szuhaj Mihály). A GooglePlay áruházban a ProfiVox megvásárolható."
-  video_url: "videos/ps_profivox/profivox_20_video.mp4"
+  video_url: "../../videos/ps_profivox/profivox_20_video.mp4"
   video_thumbnail: "images/ps_profivox/film.jpg"
   background_class: ""
 
