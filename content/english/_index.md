@@ -12,7 +12,7 @@ intro_video:
   enable: true
   title: "Welcome to *THE MUSEUM OF HUNGARIAN SPEECH TECHNOLOGY*"
   content: ""
-  video_url: "../videos/udvozlo.mp4"
+  video_url: "videos/udvozlo.mp4"
   video_thumbnail: "images/udvozlo.jpg"
   background_class: "bg-light"
 

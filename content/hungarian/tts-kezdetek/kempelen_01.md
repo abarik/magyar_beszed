@@ -16,7 +16,7 @@ product_info:
   - image: "images/ps_kezdetek/hu_1791_gep.jpg"
     content : "##### 
 
-Kempelen Farkas feltaláló, építész, polihisztor (1734-1804) készítette el a világ első beszédkeltő gépét, mai szóval beszédszintetizátorát. Ezzel, 200 évvel előzte meg a számítástechnika és az informatika korát. Ma a 21. század elején ugyanis már szinte minden digitális készülékben van ilyen eszköz, tehát a gépek tudnak beszélni. <a href='/download/2002_Kempelen_Beszedkutatas_hun.pdf'>A részletek itt olvashatók.</a>
+Kempelen Farkas feltaláló, építész, polihisztor (1734-1804) készítette el a világ első beszédkeltő gépét, mai szóval beszédszintetizátorát. Ezzel, 200 évvel előzte meg a számítástechnika és az informatika korát. Ma a 21. század elején ugyanis már szinte minden digitális készülékben van ilyen eszköz, tehát a gépek tudnak beszélni. <a href='../download/2002_Kempelen_Beszedkutatas_hun.pdf'>A részletek itt olvashatók.</a>
    
     "
 

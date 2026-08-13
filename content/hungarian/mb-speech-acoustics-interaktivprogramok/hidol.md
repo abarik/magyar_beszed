@@ -19,7 +19,7 @@ A program felhasználásával készült szakkönyv <a href='http://smartlab.tmit
   button:
     enable : true
     label : "A program letöltése"
-    link : "../download/hidol.zip"
+    link : "download/hidol.zip"
 
 
 ---

@@ -22,10 +22,10 @@ Ez az első hangsúly adatbázis magyar nyelvre. Célja: a magyar mondatok helye
 Az adatbázis közel 2000 mondatot tartalmaz. Minden mondat hangzó formában (a ProfiVox-triád beszédszintetizátorral előállított wav fájl) és írott alakban a hangsúly jelekkel (txt fájl) van tárolva. Az írott alakok tartalmazzák a hangsúly jeleket. Az adatbázis letölthető. Felhasználható célzott statisztikai vizsgálatokhoz, oktatáshoz és kutatáshoz.
 
 
-[Az adatbázis szerkezeti leírása.](download/hangsulyadatbazis_szerkezete_hu.pdf) 
+[Az adatbázis szerkezeti leírása.](../../download/hangsulyadatbazis_szerkezete_hu.pdf) 
 
 
-További részletek a [szakcikkben](download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf) olvashatók. 
+További részletek a [szakcikkben](../../download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf) olvashatók. 
   "
   button:
     enable : true

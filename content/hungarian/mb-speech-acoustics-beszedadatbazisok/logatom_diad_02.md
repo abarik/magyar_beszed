@@ -31,7 +31,7 @@ A diádos adatbázis elkészítéséhez 3 szótagos értelmetlen hangsorokat ter
 
 {{<audio src="/audio/abaka_8_logatom.wav" caption="" >}}
 
-További részletek: [A MAGYAR BESZÉD](download/A-magyar-beszed.pdf) c. könyv 8.2.2.1. Diád hangelembázis fejezetében
+További részletek: [A MAGYAR BESZÉD](../../download/A-magyar-beszed.pdf) c. könyv 8.2.2.1. Diád hangelembázis fejezetében
 
 
 
