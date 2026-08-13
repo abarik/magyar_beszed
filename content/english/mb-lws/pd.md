@@ -14,7 +14,7 @@ banner:
   button:
     enable : true
     label : "Go to the database"
-    link : "../mksz/index.php?hl=en"
+    link : "https://www.magyarbeszed.hu/mksz/index.php?hl=en"
 
 
 ---
