@@ -26,7 +26,7 @@ about:
    The book [HUNGARIAN SPEECH](download/A-magyar-beszed.pdf) is also linked to the website, It was published by Akadémia Kiadó in 2010. It contains 700 pages of detailed information about hungarian speech research and speech technology applications. We wish you good browsing on the website and in the book.
     
   
-  Az oldal magyar nyelven is elérhető: [Magyar beszéd]({{< relref "/" >}})
+  Az oldal magyar nyelven is elérhető: [Magyar beszéd](/)
   "
   
   image : "images/magyarbeszed_elolapja_02.png"
