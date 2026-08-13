@@ -12,7 +12,7 @@ intro_video:
   enable: true
   title: "Üdvözöljük a <br>*MAGYAR BESZÉDTECHNOLÓGIA*<br>honlapján és múzeumában"
   content: ""
-  video_url: "/videos/udvozlo.mp4"
+  video_url: "videos/udvozlo.mp4"
   video_thumbnail: "images/udvozlo.jpg"
   background_class: "bg-light"
   
@@ -23,10 +23,10 @@ about:
   content: "A beszéd az egyik legbonyolultabb és legösszetettebb akusztikai produktuma az embernek. Ez a honlap segít betekintést nyerni beszédünk titkaiba. A 20. századig csak vágyálma volt az emberiségnek, hogy megismerje a beszéd részletes szerkezetét, működését, felfogási és megértési mechanizmusát. 
   
   
-  [A MAGYAR BESZÉD](/download/A-magyar-beszed.pdf) című könyv is a honlaphoz kapcsolódik amely 2010-ben az Akadémia Kiadónál jelent meg. A könyv 700 oldalon tartalmaz részletes adatokat a beszéddel kapcsolatos kutatásokról.  Jó munkát, jó böngészést kívánunk a honlapon és a könyvben egyaránt.
+  [A MAGYAR BESZÉD](download/A-magyar-beszed.pdf) című könyv is a honlaphoz kapcsolódik amely 2010-ben az Akadémia Kiadónál jelent meg. A könyv 700 oldalon tartalmaz részletes adatokat a beszéddel kapcsolatos kutatásokról.  Jó munkát, jó böngészést kívánunk a honlapon és a könyvben egyaránt.
   
   
-  The site is also available in English: [Hungarian Speech](/en)
+  The site is also available in English: [Hungarian Speech](en)
   "
   
   image : "images/magyarbeszed_elolapja_02.png"
