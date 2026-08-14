@@ -52,7 +52,7 @@
           <p class="mb-4">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
         {{ with .button }}
-          <a href="{{ .link | relLangURL }}"
+          <a href="{{ .link | relURL }}"
             title="{{ .label }}"
             class="btn btn-outline-primary">
             {{ .label }}
