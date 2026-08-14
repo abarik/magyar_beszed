@@ -32,7 +32,7 @@ Az adatbázis letöltése: [1. rész](../../download/hangsuly_adatbazis_2022.zip
   button:
     enable : true
     label : "További részletek a szakcikkben olvashatók"
-    link : "../download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf"
+    link : "download/Olaszy_Abari_Bartalis_Magyar_hangsuly_cikk_2014.pdf"
 
 
 
