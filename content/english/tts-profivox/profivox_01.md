@@ -12,7 +12,7 @@ intro_video:
   enable: true
   title: ""
   content: "Listen to the video"
-  video_url: "videos/ps_profivox/profivox_diad_hangdemo_video.mp4"
+  video_url: "../../../videos/ps_profivox/profivox_diad_hangdemo_video.mp4"
   video_thumbnail: "images/ps_profivox/profivox_diad_2021_logo.jpg"
   background_class: ""
 

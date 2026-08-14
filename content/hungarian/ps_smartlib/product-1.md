@@ -74,7 +74,7 @@ intro_video_3:
   enable: true
   title: "Rekonstrukció"
   content: "Kempelen Farkas beszédkeltő gépének rekonstrukciója 2001-ben"
-  video_url: "videos/ps_kezdetek/hu_kempelen_nikleczy_olaszy_bme_magyar.mp4"
+  video_url: "../../videos/ps_kezdetek/hu_kempelen_nikleczy_olaszy_bme_magyar.mp4"
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_2001.jpg"
   background_class: ""
 
@@ -83,7 +83,7 @@ intro_video_4:
   enable: true
   title: "Kempelen gépek kórusa"
   content: "Kempelen Farkas 5 egyedileg rekonstruált beszélő gépének kórusa (mama, papa) 2018-ban Bécsben a Kempelen Workshopon."
-  video_url: "videos/ps_kezdetek/kempelen_gepek_korusa_2019_09_12.mp4"
+  video_url: "../../videos/ps_kezdetek/kempelen_gepek_korusa_2019_09_12.mp4"
   video_thumbnail: "images/ps_kezdetek/video_korus.jpg"
   background_class: ""
 
