@@ -55,7 +55,7 @@ intro_video_2:
   enable: true
   title: "Búvárszemüveg (Diving goggles)"
   content: 'The articulatory movements of the spoken Hungarian word "búvárszemüveg" /b u: v a: r s E m y v E g/ (diving goggles) can be seen in the demo'
-  video_url: "videos/alk/buvarszemuveg.mp4"
+  video_url: "../../../videos/alk/buvarszemuveg.mp4"
   video_thumbnail: "images/alk/buvarszemuveg.jpg"
   background_class : ""
 
