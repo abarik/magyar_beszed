@@ -12,7 +12,7 @@ banner_center:
   image: "images/ps_kezdetek/hu_bano_szabadalom.jpg"
   content : "The idea of cutting out wave elements from human speech and concatenate them one after the others was born in the brain of a Hungarian engineer and inventor in 1916.<br>
 **This was the first patent in the world for a talking machine based on wave form connection.**
-<br><a href='/download/HU74361_Bano_Miklos_szabadalom.pdf'>The text of the patent in Hungarian is given here.</a>
+<br><a href='../../../download/HU74361_Bano_Miklos_szabadalom.pdf'>The text of the patent in Hungarian is given here.</a>
 "
   button:
     enable : false

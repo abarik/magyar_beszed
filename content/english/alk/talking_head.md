@@ -42,7 +42,7 @@ intro_video:
   enable: true
   title: "Jó napot kívánok! (Good afternoon)"
   content: ""
-  video_url: "videos/alk/jonap.mp4"
+  video_url: "../../../videos/alk/jonap.mp4"
   video_thumbnail: "images/alk/jonap.jpg"
   background_class : "bg-light"
 

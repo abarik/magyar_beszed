@@ -60,7 +60,7 @@ intro_video:
   enable: true
   title: "Gábor Olaszy"
   content: "The 70-year-old professor talks about his own life in Hungarian"
-  video_url: "videos/contact/og_70_years_hu.mp4"
+  video_url: "../../../videos/contact/og_70_years_hu.mp4"
   video_thumbnail: "images/contact/video_01.jpg"
   background_class : "bg-light"
 
@@ -72,7 +72,7 @@ intro_video_2:
   enable: true
   title: "Gábor Olaszy"
   content: "Hungary's Video Portrait Gallery in Hungarian"
-  video_url: "videos/contact/video_portre_olaszy_hu.mp4"
+  video_url: "../../../videos/contact/video_portre_olaszy_hu.mp4"
   video_thumbnail: "images/contact/video_02.jpg"
   background_class : "bg-light"
 

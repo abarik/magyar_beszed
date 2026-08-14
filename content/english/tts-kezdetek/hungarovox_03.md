@@ -20,7 +20,7 @@ The revolutionary change in speech synthesis has been done by computers. The fir
 
 
 The first Hungarian text-to-speech system - HungaroVox - was created in the phonetics Laboratory of the department. The system could read any Hungarian typed text (1982). The three creators of the system were: Gábor Olaszy, Péter Nikléczy and Gábor Kiss. This system is a patent of the Institute of Linguistics of the Hungarian Academy of Sciences (1982, registration number: 185527).
-<a href='/download/HungaroVox_patent_HU.pdf'>The text of the patent in Hungarian is given here.</a>
+<a href='../../../download/HungaroVox_patent_HU.pdf'>The text of the patent in Hungarian is given here.</a>
 
 
     "
@@ -46,7 +46,7 @@ intro_video:
   enable: true
   title: "VOX-12 demo"
   content: ""
-  video_url: "videos/ps_kezdetek/hu_hungarovox_12_voice_1982.mp4"
+  video_url: "../../../videos/ps_kezdetek/hu_hungarovox_12_voice_1982.mp4"
   video_thumbnail: "images/ps_kezdetek/hu_video_vox.jpg"
   background_class : "bg-light"
 

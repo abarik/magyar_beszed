@@ -16,7 +16,7 @@ product_info:
   - image: "images/ps_kezdetek/hu_1791_gep.jpg"
     content : "##### 
 
-Farkas Kempelen inventor, architect, polyhistor (1734-1804) built the first speaking machine, with today's term a speech synthesizer. He preceded the age of computing and informatics by 200 years. Today, at the beginning of the 21st century, almost every digital device has a speech synthesiser, so machines can talk. <a href='/download/NP_OG_Kempelen_paper_EN.pdf'>Read details here.</a>   
+Farkas Kempelen inventor, architect, polyhistor (1734-1804) built the first speaking machine, with today's term a speech synthesizer. He preceded the age of computing and informatics by 200 years. Today, at the beginning of the 21st century, almost every digital device has a speech synthesiser, so machines can talk. <a href='../../../download/NP_OG_Kempelen_paper_EN.pdf'>Read details here.</a>   
     "
 
   - image: "images/ps_kezdetek/hu_kempelen_gep_2001.jpg"
@@ -73,7 +73,7 @@ intro_video:
   enable: true
   title: "Presentations between 2001-2022"
   content: "Public demonstrations of the replica of Kempelen's speaking machine between 2001-2022."
-  video_url: "videos/ps_kezdetek/en_kempelen_presentations_olaszy_nikleczy_2001-2020.mp4" 
+  video_url: "../../../videos/ps_kezdetek/en_kempelen_presentations_olaszy_nikleczy_2001-2020.mp4" 
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_2001_2020_en.jpg"
   background_class: "bg-light"
 
@@ -82,7 +82,7 @@ intro_video_2:
   enable: true
   title: "The voice of the mechanical speaking machine"
   content: "Voice samples produced by the reconstructed Kempelen's speaking machine in Hungary in 2001."
-  video_url: "videos/ps_kezdetek/en_kempelen_voice samples_nikleczy_olaszy_bme.mp4"
+  video_url: "../../../videos/ps_kezdetek/en_kempelen_voice samples_nikleczy_olaszy_bme.mp4"
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_hang_en.jpg"
   background_class: ""
 
@@ -91,7 +91,7 @@ intro_video_3:
   enable: true
   title: "Reconstruction"
   content: "Reconstruction of Kempelen's speaking machine in 2001."
-  video_url: "videos/ps_kezdetek/en_kempelen_rec_film_nikleczy_olaszy.mp4"
+  video_url: "../../../videos/ps_kezdetek/en_kempelen_rec_film_nikleczy_olaszy.mp4"
   video_thumbnail: "images/ps_kezdetek/video_beszelogep_2001.jpg"
   background_class: "bg-light"
 
@@ -100,7 +100,7 @@ intro_video_4:
   enable: true
   title: "\"Choir\" of Kempelen's reconstructed machines"
   content: "Kempelen Workshop, Vienna, 2018. The \"choir\" (mama, papa) of 5 different replicas of Kempelen's speaking machine."
-  video_url: "videos/ps_kezdetek/kempelen_gepek_korusa_2019_09_12.mp4"
+  video_url: "../../../videos/ps_kezdetek/kempelen_gepek_korusa_2019_09_12.mp4"
   video_thumbnail: "images/ps_kezdetek/video_korus.jpg"
   background_class: ""
 
@@ -109,7 +109,7 @@ intro_video_5:
   enable: true
   title: "3D animation"
   content: "The animation was made in 2023."
-  video_url: "videos/ps_kezdetek/Kemp_3D_EN.mp4"
+  video_url: "../../../videos/ps_kezdetek/Kemp_3D_EN.mp4"
   video_thumbnail: "images/ps_kezdetek/kempelen_3D.jpg"
   background_class: ""
 
