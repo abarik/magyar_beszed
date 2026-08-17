@@ -1,7 +1,7 @@
 ---
 date: "2021-11-15"
 draft: false
-title: "GOH Speech Hearing Screening Process"
+title: "GOH Hungarian Speech Hearing Screening Test"
 description: ""
 icon: ""  # fontawesome icon pack : https://fontawesome.com/icons/
 layout: "layout-1"
@@ -23,7 +23,9 @@ The GOH Speech Hearing Screening Process is a new, indirect solution for quick a
 If the biological hearing mechanism of the child is OK, she/he says back that word that was spoken through the headset. If she/he says another word back, there may have been a problem in the hearing mechanism. The measurement results (answers) are fixed on the GOH evaluation sheet. The right and left ear can be examined separately.
 One complete measurement takes max. 5 minutes.
 
-Further details are available in the Hungarian part
+Further details available in Hungarian at <https://www.isca-archive.org/hscr_2024/olaszy24_hscr.pdf>.
+
+
 
 
 '
@@ -34,23 +36,38 @@ Further details are available in the Hungarian part
     - "images/alk_tts/goh_kesz.png"
     content : '
     
-The GOH hearing aid tester has been manufactured by NIKOL.KKT since 1985.
-Available in digital versions from 2000, it is a palm-sized lightweight device with earphones, power supply and test strip package.
-
-
-See the videos as it is used.
-
+The GOH hearing screening tester has been manufactured by NIKOL.KKT since 1985.
+The first generation (1985–2000) operated in an analog manner using cassette tape, headphones and an evaluation sheet.
+The second generation (2000–2024) consisted of a small measuring device called “Mondom-2000“, headphones, and an evaluation sheet.
 
 '
 
 
 
 
+  - title : ""
+    background_class : ""
+    images:
+    - "images/alk_tts/goh_kesz_2_en.png"
+    content : '
+    
+The 3rd-generation GOH speech hearing test is available as software (starting in 2024) and can be used on a laptop (Windows, version 7 or higher) with headphones and the evaluation sheet. 
+Read more here: https://www.isca-archive.org/hscr_2024/olaszy24_hscr.pdf.<br>
+
+The monosyllabic words/syllables prepared for the test were generated in 1985 using a speech synthesizer, so they have a specific, phonetically planned acoustic structure. These words were/are used in their original waweform across all three generations from 1985.
+
+<br>See the videos as it was used in 2006.
+
+
+
+'
+
+
 
 ######################### Intro Video #####################
 intro_video:
   enable: true
-  title: "GOH speech hearing test in kindergarten"
+  title: "GOH speech hearing test in kindergarten in 2006"
   content: ""
   video_url: "../../../videos/alk/GOH_Kindergarten.mp4"
   video_thumbnail: "images/alk_tts/goh_vid_1.jpg"
@@ -62,7 +79,7 @@ intro_video:
 ######################### Intro Video #####################
 intro_video_2:
   enable: true
-  title: "GOH speech hearing test at school"
+  title: "GOH speech hearing test at school in 2006"
   content: ""
   video_url: "../../../videos/alk/GOH_school.mp4"
   video_thumbnail: "images/alk_tts/goh_vid_2.jpg"

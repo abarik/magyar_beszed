@@ -23,6 +23,30 @@ A GOH hallásvizsgálati módszer adaptálása más, környező nyelvekre 2024-b
 A 9 ország számára készült GOH beszédhallás teszt mindennapi használatra szánt verziói ingyenesen letölthetők az ENFIELD weboldaláról a képen látható linkek és QR-kódok segítségével.<br>
 A szoftver számítógépen (Windows operációs rendszerrel) használható. Ajánlott fejhallgató-modell: HD681Red.
 
+
+<br><br>Az alábbi linkeken országonként érhetők el ingyenesen letölthető szoftverek és a hozzájuk tartozó anyagok:
+
+- AUSTRIA / ÖSTERREICH — [https://zenodo.org/records/20605873](https://zenodo.org/records/20605873)
+
+- CROATIA / HRVATSKA — [https://zenodo.org/records/18889867](https://zenodo.org/records/18889867)
+
+- CZECH REPUBLIC / ČESKO — [https://zenodo.org/records/19732790](https://zenodo.org/records/19732790)
+
+- GERMANY / DEUTSCHLAND — [https://zenodo.org/records/20606158](https://zenodo.org/records/20606158)
+
+- ITALY / ITALIA — [https://zenodo.org/records/19922785](https://zenodo.org/records/19922785)
+
+- POLAND / POLSKA — [https://zenodo.org/records/18431621](https://zenodo.org/records/18431621)
+
+- ROMANIA / ROMÂNIA — [https://zenodo.org/records/20623736](https://zenodo.org/records/20623736)
+
+- SLOVAKIA / SLOVENSKO — [https://zenodo.org/records/17896959](https://zenodo.org/records/17896959)
+
+- SLOVENIA / SLOVENIJA — [https://zenodo.org/records/17367748](https://zenodo.org/records/17367748)
+
+
+
+
 '
       
   - title : ""
