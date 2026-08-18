@@ -13,8 +13,8 @@ product_info:
   title: "MULTIVOX 4"
   content: ""
   features:
-  - image: "images/ps_multivox/pworld_letoltes.jpg"
-    content : "##### Az első ingyenes magyar  beszédszintetizátor szoftver
+  - image: "images/ps_multivox/pworld_letoltes.png"
+    content : "##### The first free  Hungarian text-to-speech synthesizer software for any application
 
 
 MultiVox4-HU was a free Hungarian text-to-speech software. Developer: BME Department of Telecommunications and Telematics (1990-2000). Basic research: Institute of Linguistics, Hungarian Academy of Sciences, Kempelen Farkas Speech Research Laboratory. The goal of BME TMIT was to create the first free national speech synthesizer. 
@@ -31,7 +31,12 @@ It was equipped with a standard Microsoft SAPI 4.0 programming interface and cou
 
 The free text-to-speech converter in Hungarian helped to create individual applications and to develop a technological culture that uses synthetic speech.
 The programmable interface gave program developers the ability to build any speech application (for games, office and industrial applications, custom personal software). It has also been used well in special areas. For example: the disabled, the visually impaired, and the speech impaired.
-The development of the free software was supported by the IT Government Commission in 2001-2002.
+The development of the free software was supported by the IT Government Commission of Hungary in 2001-2002. Multivox-4 has been available for download from the Hungarian website since 2018 (<https://letoltokozpont.hu/letoltes_programok_reszletes.php?a=8705&k=81#google_vignette>).
+
+<br>
+
+Starting in 2026, Multivox-4 is available for download also from the Internet Archive ([archive.org](https://archive.org/details/multivox-4)).
+
 
     "
 

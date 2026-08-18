@@ -13,24 +13,28 @@ product_info:
   title: "MULTIVOX 4"
   content: ""
   features:
-  - image: "images/ps_multivox/pworld_letoltes.jpg"
-    content : "##### Az első ingyenes magyar  beszédszintetizátor szoftver
+  - image: "images/ps_multivox/pworld_letoltes.png"
+    content : "##### Az első ingyenes magyar beszédszintetizátor szoftver
 
 
-A MultiVox4-HU magyar nyelvű ingyenes, nemzeti szövegfelolvasó szoftver volt.  2002-ben vált letölthetővé. Fejlesztő: BME Távközlési és Telematikai Tanszék (1990-2000). Alapkutatás: MTA Nyelvtudományi Intézet, Kempelen Farkas Beszédkutató Laboratórium. A BME TMIT célja az volt, hogy legyen egy nemzeti ingyenes beszédszintetizátor. Még 2022-ben is szabadon letölthető. 
+A MultiVox4-HU magyar nyelvű ingyenes, nemzeti szövegfelolvasó szoftver volt. 2002-ben vált letölthetővé. Fejlesztő: BME Távközlési és Telematikai Tanszék (1990-2000). Alapkutatás: MTA Nyelvtudományi Intézet, Kempelen Farkas Beszédkutató Laboratórium. A BME TMIT célja az volt, hogy legyen egy nemzeti ingyenes beszédszintetizátor. Az értékmentők lelkes munkájának köszönhetően 2018 óta ismét szabadon letölthető a magyar letöltőközpont oldalról. 2026-ig Azóta 14000 ember töltötte le erről a magyar oldalról:
+<https://letoltokozpont.hu/letoltes_programok_reszletes.php?a=8705&k=81#google_vignette>
+
 <br><br>
 
-Térítésmentesen használhatták bármilyen alkalmazásban. Férfi és női hangot is elő tudott állítani, sőt rekedthangon, valamint telefon hangon is meg tudott szólalni. Suttogni is tudott.
-Szabványos Microsoft SAPI 4.0 programozási felülettel volt ellátva és a legelterjedtebb operációs rendszereken lehetett alkalmazni (Win 95, 98, NT, 2000, ME, XP és CE). A szintetizátor hangja minden hangkártyával rendelkező PC-n egyéb kiegészítés nélkül megszólalt. A PC World CD mellékletében 2002-ben adták közre minden előfizetőnek. 
-
+Térítésmentesen lehetett használni bármilyen alkalmazásban. Férfi és női hangot is elő tudott állítani, sőt rekedten, valamint telefon hangon is meg tudott szólalni. Suttogni is tudott. Szabványos Microsoft SAPI 4.0 programozási felülettel volt ellátva és a legelterjedtebb operációs rendszereken lehetett alkalmazni (Win 95, 98, NT, 2000, ME, XP és CE). A szintetizátor hangja minden hangkártyával rendelkező PC-n egyéb kiegészítés nélkül megszólalt. A PC World CD mellékletében 2002-ben adták közre minden előfizetőnek (ez kb. 20000 embert jelentett).
  "
 
   - image: "images/ps_multivox/pcworld_multivox4.jpg"
     content : "##### 
 
-Az ingyenes magyar nyelvű szövegfelolvasó segítette az egyéni alkalmazások kialakítását, a beszédet felhasználó technológiai kultúra fejlesztését.
-A programozható vezérlési felület alkalmat adott a programfejlesztőknek, hogy tetszőleges beszédalkalmazást készítsenek (játékokhoz, irodai és ipari alkalmazásokhoz, egyedi személyes szoftverekhez). Speciális területeken is jól használták, például a mozgássérültek, a gyengénlátók, és a beszédsérültek.
- Az ingyenesen terjesztett magyar beszédszintetizátor szoftver elkészítését az Informatikai Kormánybiztosság támogatta 2001-2002-ben.
+Az ingyenes magyar nyelvű szövegfelolvasó segítette az egyéni alkalmazások kialakítását, a beszédet felhasználó technológiai kultúra fejlesztését. A programozható vezérlési felület alkalmat adott a programfejlesztőknek, hogy tetszőleges beszédalkalmazást készítsenek (játékokhoz, irodai és ipari alkalmazásokhoz, egyedi személyes szoftverekhez). Speciális területeken is jól használták, például a mozgássérültek, a gyengénlátók, és a beszédsérültek. Az ingyenesen terjesztett magyar beszédszintetizátor szoftver elkészítését az Informatikai Kormánybiztosság támogatta 2001-2002-ben.
+
+<br><br>
+
+2026-ban az Internet Archive-ra (archive.org) is felkerült a Multivox-4 szoftver. Innen is letölthető: 
+<https://archive.org/details/multivox-4>.
+
     "
 
 ######################### content_and_waves_ordered #####################
