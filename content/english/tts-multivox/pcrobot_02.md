@@ -43,7 +43,7 @@ banner_center_2:
 content_and_waves_ordered:
   enable : true
   content : "A PC-ROBOT voice and singing"
-  title : "Hangdemó"
+  title: "Sound demo"
   background_class : ""
   waves:
   - sound: "images/tts-multivox/01-maci.wav"
