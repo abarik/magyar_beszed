@@ -38,8 +38,6 @@ Neumann János Számítógép-tudományi Társaság, Informatikatörténeti fór
 Video: https://www.youtube.com/watch?v=zOJTrnP5M04 
 
 
-Összefoglaló: https://slideplayer.hu/slide/15906651/
-
 
 
 '

@@ -11,16 +11,15 @@ layout: "how-it-works"
 banner:
   title: "Text-to-formant converter"
   image: "images/mb-speech-acoustics/ttf_en.png"
-  content : "The HIDOL program serves for measuring and giving statistics on speech sound-durations. When measuring speech sound duration, the sound environment of the measured sound can be adjusted as well. The position of the measured speech sound can also be determined within the word. Word length can be measured as well. Output statistics are: averages, distributions, comparisons, trends). Results of the measure are given in a txt file.
-The program measures the speech sound- and word durations from a manually tagged Hungarian speech database.<br>
-The program was created in 2004 in Budapest. Developers are: Gábor Olaszy and Kálmán Abari. This was the first computer-aided speech sound duration analysis program and data environment for Hungarian speech.<br>
-The speech database contains read sentences in the pronunciation of a native Hungarian male speaker. The sentences in the speech database (files with a wav extension) can be listened directly from the speech database.<br>
-The program only works with its own speech database!<br>
-FOR USING THIS PROGRAMM IT IS GOOD IF YOU ARE FAMILIAR WITH HUNGARIAN LANGUAGE!"
+  content : "
+  
+  We present a method that can determine formants from text (Text-to-Formants). Any Hungarian text (sequence of letters) can be typed into the interactive window and the program will display the sequence of speech sounds corresponding to the input and the corresponding F1 and F2 formant shapes as a function of time. This will be the so-called formant map of the typed sequence(word, sentence). The point is not to determine the Hz values of the formants, but to realize the characteristic formant movements within and between the speech sounds using a general statistical (HMM) model. With other words: to study the coarticulation in fluent speech. The formant maps do not show individual features, but rather language specific data. This program gives new opportunities for education and speech research.
+  
+  "
   button:
     enable : true
     label : "Go to the Converter"
-    link : "http://smartlab.tmit.bme.hu/ttf/"
+    link : "http://smartlab.tmit.bme.hu/ttf/index.php?p=index&l=en"
 
 
 ---

@@ -76,6 +76,14 @@ intro_video_2:
   video_thumbnail: "images/contact/video_02.jpg"
   background_class : "bg-light"
 
+######################### Intro Video #####################
+intro_video_3:
+  enable: true
+  title: "Olaszy Gábor 80 years old"
+  content: "Surprise in Budafok at the Promontor cellar"
+  video_url: "../../videos/contact/80_PROMONTOR_TMIT_2023_90MB.mp4"
+  video_thumbnail: "images/contact/video_03.jpg"
+  background_class : "bg-light"
 
 
 

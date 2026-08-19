@@ -11,7 +11,7 @@ layout: "layout-1"
 content_and_image_ordered:
   enable : true
   block:
-  - title : "Hungarian Internet Book Reader (Viághalló 2004)"
+  - title : "Hungarian Internet Book Reader for blind people (Viághalló 2004)"
     background_class : ""
     images:
     - "images/alk_tts/vilaghallo.jpg"

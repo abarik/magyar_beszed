@@ -10,7 +10,3 @@ A beszédtechnológiai műszaki megoldások fejlesztéseihez elengedhetetlenül 
 A beszédadatbázisok tervezése és elkészítése bonyolult munka. A felolvasandó szöveg megtervezése, a hangfelvételek elkészítése és a címkézések sok időt és precíz munkát igényelnek. A gépi tanulási algoritmusok fejlődésével lehetővé vált ennek a munkának a lerövidítése, sőt felügyelet nélküli beszédadatbázisokat is készítenek már 2020-ban. 
    
 Részletek: [A MAGYAR BESZÉD](../download/A-magyar-beszed.pdf) c. könyv 8. fejezetében olvashatók (a 261. oldaltól).
-
-További összefoglalók:
-* http://home.sch.bme.hu/~peternac/beszed/gyak/beszedadatbazisok_gyak_2005.pdf
-* http://www.nytud.hu/fonetika/FON3l.htm

@@ -15,7 +15,8 @@ banner:
 A program 2004-ben készült Budapesten. Fejlesztői: Olaszy Gábor és Abari Kálmán. Ez volt az első számítógéppel támogatott beszédhang-időtartam elemző program a magyar beszédre.<br>
 A program a beszédhang- és szóidőtartamokat kézzel címkézett speciális formátumú beszédadatbázisból veszi, ezért a kapott adatok pontosnak tekinthetők. Az adatbázis férfi bemondó által felolvasott mondatokat tartalmaz.<br> 
 A beszédadatbázis magyar mondatai (wav kiterjesztésű fájlok) a beszédadatbázisból meghallgathatók.<br>
-A program felhasználásával készült szakkönyv <a href='http://smartlab.tmit.bme.hu/downloads/pdf/Hangidotartamok.pdf'>ide kattintva</a> megnyitható/letölthető."
+A program felhasználásával készült szakkönyv (Hangidőtartamok és időszerkezeti elemek a magyar beszédben) <a href='http://smartlab.tmit.bme.hu/downloads/pdf/Hangidotartamok.pdf'>erről a honlapról letölthető</a>.
+"
   button:
     enable : true
     label : "A program letöltése"

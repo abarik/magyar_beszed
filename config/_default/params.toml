@@ -38,7 +38,7 @@ contact_form_action = "#!" # contact form works with [https://airform.io/] or [h
 get_demo = "#!" # contact form works with [https://airform.io/] or [https://formspree.io]
 
 # copyright
-copyright = "Copyright 2023. Olaszy Gábor és Abari Kálmán<br>Utolsó frissítés: 2023. 09. 11. (Last update: 11. 09. 2023)"
+copyright = "Copyright 2022. Olaszy Gábor és Abari Kálmán | Gábor Olaszy & Kálmán Abari<br>Utolsó frissítés: 2026. 09. 11. | Last updated: 11 September 2026"
 
 # Preloader
 [preloader]

@@ -76,6 +76,15 @@ intro_video_2:
   background_class : "bg-light"
 
 
+######################### Intro Video #####################
+intro_video_3:
+  enable: true
+  title: "Olaszy Gábor 80 éves"
+  content: "Meglepetés Budafokon a Promontor pincében"
+  video_url: "../../videos/contact/80_PROMONTOR_TMIT_2023_90MB.mp4"
+  video_thumbnail: "images/contact/video_03.jpg"
+  background_class : "bg-light"
+
 
 
 

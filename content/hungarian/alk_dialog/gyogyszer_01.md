@@ -26,8 +26,6 @@ További részletek:
 * [Szakcikk](../../download/Speech_based_Drug_Information_System.pdf)
 
 *  [Gyógyszervonal](http://smartlab.tmit.bme.hu/alkalmazas-gyogyszervonal)
-  
-*  [Beszéd és beszédtudomány III.](http://www.matud.iif.hu/07mar/06.html)
    
 '
 

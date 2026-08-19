@@ -10,7 +10,7 @@ layout: "about"
 ######################### Intro Video #####################
 intro_video:
   enable: true
-  title: "Üdvözöljük a <br>*MAGYAR BESZÉDTECHNOLÓGIA*<br>honlapján és múzeumában"
+  title: "Üdvözöljük a <br>*MAGYAR BESZÉDTECHNOLÓGIA*<br> múzeumában"
   content: ""
   video_url: "videos/udvozlo.mp4"
   video_thumbnail: "images/udvozlo.jpg"
@@ -73,7 +73,7 @@ office_culture:
     column: "3" # column will be [ 6 or 3 ]
   - image: "images/izelito/kep_hangdoboz_1_2.jpg"
     column: "6" # column will be [ 6 or 3 ]
-  - image: "images/izelito/img_cccv_1_1.jpg"
+  - image: "images/izelito/img_goh.png"
     column: "3" # column will be [ 6 or 3 ]
   - image: "images/izelito/img_kiejtesi_1_2.jpg"
     column: "6" # column will be [ 6 or 3 ]

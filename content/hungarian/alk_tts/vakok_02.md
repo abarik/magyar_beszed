@@ -26,8 +26,6 @@ További részletek:
 
 * [https://listserv.niif.hu/pipermail/mek-l/2004-March/002750.html](https://listserv.niif.hu/pipermail/mek-l/2004-March/002750.html)
 
-* [https://slideplayer.hu/slide/2592496/](https://slideplayer.hu/slide/2592496/)
-
 '
 
 
@@ -75,8 +73,6 @@ További részletek:
 
 
 * [https://infoalap.hu/megoldasok/hallhassam/jaws/](https://infoalap.hu/megoldasok/hallhassam/jaws/) 
-
-* [http://magyarbeszed.tmit.bme.hu/alkalmazas-jaws-for-windows](http://magyarbeszed.tmit.bme.hu/alkalmazas-jaws-for-windows)
 
 * [https://infoalap.hu/letoltesek/szoftverek/](https://infoalap.hu/letoltesek/szoftverek/)
 

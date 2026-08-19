@@ -196,4 +196,41 @@
 <!-- /intro_video -->
 
 
+
+<!-- intro_video -->
+{{ with .Params.intro_video_3 }}
+{{ if .enable }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-6 text-center">
+        <h2 class="section-title h3">{{ .title | markdownify }}</h2>
+        <div class="content mb-6">
+          {{.content | markdownify}}
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-xl-9">
+        <div class="has-video rounded-2 shadow">
+          <button type="button" class="video-play-btn rounded-2" data-src="{{.video_url}}">
+            <i class="fas fa-play"></i>
+          </button>
+          {{ if fileExists (add `assets/` .video_thumbnail) }}
+          {{$img:= resources.Get .video_thumbnail }}
+          {{$img:= $img.Resize "850x "}}
+          {{$imgWebp:= $img.Resize "850x webp"}}
+          <img loading="lazy" decoding="async" class="w-100 video-thumb rounded-2" width="{{$img.Width}}" height="{{$img.Height}}" src="{{$imgWebp.RelPermalink}}" alt="Video Thumbnail" onerror="this.onerror=null;this.src='{{$img.RelPermalink}}'">
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+<!-- /intro_video -->
+
+
+
 {{ end }}
